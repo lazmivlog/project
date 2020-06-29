@@ -1,6 +1,7 @@
 language:python
 os:
-  - linux
+ - linux
+ - osx
 
 services:
   - docker
