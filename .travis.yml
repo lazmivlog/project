@@ -8,5 +8,3 @@ services:
 before_install:
   - docker pull lazmirajput/project
   - docker run lazmirajput/project
-install:
-  - docker run lazmirajput/project
